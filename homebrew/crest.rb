@@ -1,10 +1,10 @@
 # Homebrew cask for Crest
 #
-# Host this file in a personal tap repo: github.com/USERNAME/homebrew-crest
+# Host this file in the shared tap repo: github.com/USERNAME/homebrew-tap
 #   Casks/crest.rb
 #
 # Install:
-#   brew install --cask USERNAME/crest/crest
+#   brew install --cask USERNAME/tap/crest
 #
 # To update after a new release:
 #   1. Replace `version` with the new version string.

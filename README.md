@@ -20,7 +20,7 @@ Watch your market, from your menu bar.
 ## Install
 
 ```sh
-brew install --cask zekevh/crest/crest
+brew install --cask zekevh/tap/crest
 ```
 
 Or [download the DMG](https://github.com/zekevh/crest/releases/latest).
